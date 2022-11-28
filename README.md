@@ -7,7 +7,7 @@ get new file in Editor folder.
 
 You need to change code on line 75: cuvanje = f'D:\Programiranje\Python\Map editor\Editor\\{Save_field.text}.py' here you need to put your directory.
 
-![](imgs/ed1.png)
-![](imgs/ed2.png)
-![](imgs/ed3.png)
-![](imgs/ed4.png)
+![](img/ed1.png)
+![](img/ed2.png)
+![](img/ed3.png)
+![](img/ed4.png)
